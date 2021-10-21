@@ -1,0 +1,9 @@
+﻿  Source.cpp
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(352,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(500,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(501,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(505,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(506,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(508,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\apporto.com\dfs\SNHU\USERS\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\OpenGLSample\Source.cpp(509,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> \\apporto.com\dfs\SNHU\Users\tyler.owens2_snhu\Desktop\ProjectNewFile\OpenGLSample\Debug\OpenGLSample.exe
